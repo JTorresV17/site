@@ -1,2 +1,4 @@
 mountpoints:
   /: https://drive.google.com/drive/u/1/folders/1CG96JeL2xLPHgQtNP6yly1_eqec0V2Yq
+  /productos:
+    - /documentos/productos.docx
