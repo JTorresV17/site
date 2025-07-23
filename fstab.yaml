@@ -1,6 +1,6 @@
 mountpoints:
   /: https://drive.google.com/drive/u/1/folders/1CG96JeL2xLPHgQtNP6yly1_eqec0V2Yq
   /sitemap.xml:
-    - /path/to/sitemap.md
+    - /sitemap.md
   /productos:
     - /documentos/productos.docx
